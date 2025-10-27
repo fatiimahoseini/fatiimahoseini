@@ -6,10 +6,10 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages
 [![Languages](https://skillicons.dev/icons?i=py,django,js&theme=dark)](https://skillicons.dev)
 
-## Tech Stack
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Tech Stack
 [![Tech Stack](https://skillicons.dev/icons?i=fastapi,git,postman,docker,postgres,github&theme=dark&perline=3)](https://skillicons.dev)
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> GitHub Stats
+<!-- GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=fatiimahoseini&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fatiimahoseini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatiimahoseini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=fatiimahoseini&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
